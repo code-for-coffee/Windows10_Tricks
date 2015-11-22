@@ -35,4 +35,13 @@ Inside of *Properties*, select the **Location** tab. You can *move* the location
 
 ## Securing Your Computer
 
+#### Scenario
+
+You just installed Windows 10 and selected the default settings (because hey, why not?)... however, you've read about all the *creepy* things that Microsoft can track. You really can't trust anyone when it comes to the internet. Windows 10 **does track telemetry** but you can turn most of it off (including their built-in key/mouse logger). If you can live without Cortana, even better. Let's sit down and discuss how to 
+
+#### Solution
+
 - soon
+- 
+
+---
